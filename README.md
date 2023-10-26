@@ -8,9 +8,9 @@ You can check out a live demo of the application [https://codewithdeepak-in.gith
 
 ## Features
 
-- Add, and delete tasks
-- Mark tasks as complete
-- Filter tasks by status (All, Active, Completed)
+- Search Input for Searching Wheather.
+- Get Icon image of wheather
+- Local time and data 
 - Responsive design for various screen sizes
 
 ## Installation
