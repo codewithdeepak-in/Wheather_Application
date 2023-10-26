@@ -4,7 +4,7 @@ A simple and intuitive weather application built with React.
 
 ## Demo
 
-You can check out a live demo of the application [https://codewithdeepak-in.github.io/todo_app/](#).
+You can check out a live demo of the application [https://codewithdeepak-in.github.io/Wheather_Application/](#).
 
 ## Features
 
@@ -20,4 +20,4 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://codewithdeepak-in.github.io/todo_app/
+   git clone https://codewithdeepak-in.github.io/Wheather_Application/
