@@ -11,7 +11,7 @@ const App = () => {
   async function handleSubmit(e) {
     e.preventDefault();
     const response = await fetch(
-      `http://api.weatherapi.com/v1/current.json?key=54b391959bd7442c80662327232610&q=${search}&aqi=no`
+      `https://api.weatherapi.com/v1/current.json?key=54b391959bd7442c80662327232610&q=${search}&aqi=no`
     );
     const data = await response.json();
     console.table(Object.values(data));
