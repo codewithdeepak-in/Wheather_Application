@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Wheather_Application/static/js/main.3a7c0c2c.js",
+    "main.js": "/Wheather_Application/static/js/main.ab0849f5.js",
     "index.html": "/Wheather_Application/index.html",
-    "main.3a7c0c2c.js.map": "/Wheather_Application/static/js/main.3a7c0c2c.js.map"
+    "main.ab0849f5.js.map": "/Wheather_Application/static/js/main.ab0849f5.js.map"
   },
   "entrypoints": [
-    "static/js/main.3a7c0c2c.js"
+    "static/js/main.ab0849f5.js"
   ]
 }
